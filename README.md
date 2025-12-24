@@ -1,46 +1,105 @@
-<h2>
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
-  Hi 👋, I'm Zahira Ait Yhia! 
-  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
-</h2>
-
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
-<p>
-  <em>
-    🎓 2nd-year Computer Science student at 
-    <a href="https://www.ueuromed.org/">Euromed University of Fes (EIDIA)</a>
-  </em>
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e54c8,100:8f94fb&height=200&section=header&text=Zahira%20Ait%20Yhia&fontSize=40&fontColor=ffffff" width="100%">
 </p>
 
-[![Linkedin: Zahira](https://img.shields.io/badge/-Zahira-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zahira-ait-yhia-87b803372/)
-![GitHub followers](https://img.shields.io/github/followers/Zahira1234?label=Follow&style=social)
+<h1 align="center">Hi, I'm Zahira Ait Yhia 👋</h1>
+<p align="center">
+  2nd-Year Computer Science Student | Digital Engineering & AI | Aspiring Software Engineer
+</p>
 
 ---
 
-### 📫 About Me  
+## 🚀 About Me
 
-- 🎓 **2nd-year student in Digital Engineering & AI (EIDIA – UEMF Fes)**  
-- 💻 I have studied and practiced **C, C++, Python, HTML, and CSS**  
-- 🚀 Interested in **Artificial Intelligence** and **Software Development**  
-- 🌱 Currently improving my skills in **algorithms, data structures, and Git/GitHub**  
+I'm a **2nd-year student in Digital Engineering and Artificial Intelligence (EIDIA)** at  
+**Euromed University of Fes (UEMF)** 🎓  
+
+I’m passionate about:
+- **Programming and problem-solving**
+- **Artificial Intelligence**
+- **Software and web development**
+
+I’m currently focused on strengthening my foundations and building real projects 🚀
 
 ---
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+## 🧠 Tech Stack
 
-```javascript
-const zahira = {
-  pronouns: ["She", "Her"],
-  education: "2nd-year Computer Science student (EIDIA – Euromed University of Fes)",
-  languages: ["C", "C++", "Python", "HTML", "CSS"],
-  askMeAbout: ["AI", "software development", "programming basics"],
-  technologies: {
-    programming: ["C", "C++", "Python"],
-    web: ["HTML", "CSS"],
-    tools: ["Git", "GitHub"]
-  },
-  interests: ["Artificial Intelligence", "Web Development"],
-  currentFocus: "Strengthening my programming foundations and exploring AI",
-  funFact: "I enjoy learning new things every day 🌸"
-};
+### 🚩 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css" />
+</p>
+
+- C  
+- C++  
+- Python  
+- HTML & CSS  
+
+---
+
+### ⚙️ Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+- Git & GitHub  
+- VS Code  
+- Algorithms & Data Structures  
+
+---
+
+## 🔥 Featured Projects
+
+| Project | Description | Technologies |
+|-------|------------|--------------|
+| **AgroMeteo** | Smart agriculture & weather-based decision support system | C++, APIs |
+| **Digital Library** | Book management system | Python |
+| **Association Management App** | Web app for managing members, activities, expenses | HTML, CSS, JavaScript |
+
+*(More projects coming soon 🚀)*
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Zahira1234&show_icons=true&theme=tokyonight"/>
+  <img height="150" src="https://streak-stats.demolab.com?user=Zahira1234&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zahira1234&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🎓 Education
+
+**Euromed University of Fes (UEMF)**  
+🎓 Digital Engineering & Artificial Intelligence (EIDIA)  
+📅 2nd Year Student  
+
+---
+
+## 🎯 Current Goal
+
+- Improve my **coding skills**
+- Master **algorithms & data structures**
+- Build **real-world projects**
+- Prepare for **future internships and opportunities**
+
+---
+
+## 📬 Contact
+
+| Type | Info |
+|------|------|
+| **GitHub** | [Zahira1234](https://github.com/Zahira1234) |
+| **LinkedIn** | [Zahira Ait Yhia](https://www.linkedin.com/in/zahira-ait-yhia-87b803372/) |
+| **Location** | Fes, Morocco |
+
+---
+
+<p align="center">
+  ✨ Thanks for visiting my profile! Feel free to explore my repositories and follow my journey.
+</p>
