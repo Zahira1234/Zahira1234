@@ -12,8 +12,7 @@
 
 ## 🚀 About Me
 
-I'm a **2nd-year student in Digital Engineering and Artificial Intelligence (EIDIA)**  
-at **Euromed University of Fes (UEMF)** 🎓  
+I'm a **2nd-year student in Digital Engineering and Artificial Intelligence (EIDIA)** at **Euromed University of Fes (UEMF)** 🎓
 
 I am passionate about:
 - 🔐 **Cybersecurity & system security**
@@ -63,16 +62,16 @@ Currently, I am building strong foundations in **algorithms, operating systems, 
 ## 🔥 Featured Projects
 
 | Project | Description | Technologies |
-|-------|------------|--------------|
+|---------|-------------|--------------|
 | **AgroMeteo** | Smart agriculture system using weather data | C++, APIs |
 | **Digital Library** | Book management application | Python |
-| **Association Management App** | Web app for managing members and activities | HTML, CSS, JavaScript |
 
 *(More cybersecurity-oriented projects coming soon 🔐)*
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Zahira1234&show_icons=true&theme=tokyonight"/>
   <img height="150" src="https://streak-stats.demolab.com?user=Zahira1234&theme=tokyonight"/>
@@ -103,7 +102,8 @@ Currently, I am building strong foundations in **algorithms, operating systems, 
 ---
 
 ## ✨ Quote
-> “Security is not a product, but a process.”
+
+> "Security is not a product, but a process."
 
 ---
 
@@ -111,6 +111,7 @@ Currently, I am building strong foundations in **algorithms, operating systems, 
 
 | Type | Info |
 |------|------|
+| **Email** | zahiraaityhia@gmail.com |
 | **GitHub** | [Zahira1234](https://github.com/Zahira1234) |
 | **LinkedIn** | [Zahira Ait Yhia](https://www.linkedin.com/in/zahira-ait-yhia-87b803372/) |
 | **Location** | Fes, Morocco |
