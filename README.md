@@ -42,9 +42,6 @@ Currently, I am building strong foundations in **algorithms, operating systems, 
 ### ⚙️ Cybersecurity & Technical Skills
 - Basics of **Cybersecurity**
 - Introduction to **Linux systems**
-- Fundamentals of **Networking**
-- Understanding of **Operating Systems**
-- Secure coding principles (basic)
 
 ---
 
@@ -67,19 +64,6 @@ Currently, I am building strong foundations in **algorithms, operating systems, 
 | **Digital Library** | Book management application | Python |
 
 *(More cybersecurity-oriented projects coming soon 🔐)*
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Zahira1234&show_icons=true&theme=tokyonight"/>
-  <img height="150" src="https://streak-stats.demolab.com?user=Zahira1234&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zahira1234&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
