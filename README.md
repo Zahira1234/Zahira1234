@@ -1,6 +1,6 @@
-<!-- Banner -->
+<!-- Banner avec ton image LinkedIn -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Zahira%20Ait%20Yhia&fontSize=40&fontColor=ffffff" width="100%">
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQF_Sr66TshOrg/profile-displaybackgroundimage-shrink_350_1400/B4EZgyUucDHEAs-/0/1753190952186?e=1770249600&v=beta&t=Kcu1aHkE3FBHS4UiqHT76ZwffGDCxYyJf893eE2ZoAo" width="100%" alt="Zahira Banner"/>
 </p>
 
 <h1 align="center">Hi, I'm Zahira Ait Yhia 👋</h1>
