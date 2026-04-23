@@ -1,8 +1,6 @@
 <!-- Banner -->
 
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E16AQF_Sr66TshOrg/profile-displaybackgroundimage-shrink_350_1400/B4EZgyUucDHEAs-/0/1753190952186?e=1770249600&v=beta&t=Kcu1aHkE3FBHS4UiqHT76ZwffGDCxYyJf893eE2ZoAo" width="100%" alt="Zahira Banner"/>
-</p>
+
 
 <h1 align="center">Hi, I'm Zahira Ait Yhia 👋</h1>
 <p align="center">
