@@ -1,20 +1,15 @@
 <!-- Banner -->
-
-
-
 <h1 align="center">Hi, I'm Zahira Ait Yhia 👋</h1>
 <p align="center">
-  2nd-Year Computer Science Student | Digital Engineering & AI | Aspiring Big Data Engineer 📊
+  Engineering Student in Big Data Analytics | EIDIA - UEMF Fès | Aspiring Data Engineer 📊
 </p>
 
 ---
 
 ## 🚀 About Me
-
-I'm a **2nd-year student in Digital Engineering and Artificial Intelligence (EIDIA)** at **Euromed University of Fes (UEMF)** 🎓
+I'm an **Engineering student specializing in Big Data Analytics** at **EIDIA - Euromed University of Fes (UEMF)** 🎓
 
 I am passionate about:
-
 * 📊 **Big Data & Data Engineering**
 * 💻 **Programming and problem-solving**
 * 🌐 **Web technologies**
@@ -27,9 +22,8 @@ Currently, I am building strong foundations in **algorithms, data structures, an
 ## 🧠 Tech Stack
 
 ### 🚩 Programming Languages
-
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,r" />
 </p>
 
 * C
@@ -37,17 +31,28 @@ Currently, I am building strong foundations in **algorithms, data structures, an
 * Python
 * HTML
 * CSS
+* R
+
+---
+
+### 📊 Data & Analytics Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,matlab" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
+
+* SQL
+* Excel
+* MATLAB
 
 ---
 
 ### ⚙️ Technical Skills
-
 * Introduction to **Linux systems**
 
 ---
 
 ### 🛠 Tools & Technologies
-
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,linux" />
 </p>
@@ -60,7 +65,8 @@ Currently, I am building strong foundations in **algorithms, data structures, an
 ## 🔥 Featured Projects
 
 | Project             | Description                                 | Technologies |
-| ------------------- | ------------------------------------------- | ------------ |
+| ------------------- | -------------------------------------------- | ------------ |
+| **VoxManus**        | AI-powered sign language translation gloves with SOS emergency system | Python, AI, Sensors |
 | **AgroMeteo**       | Smart agriculture system using weather data | C++, APIs    |
 | **Digital Library** | Book management application                 | Python       |
 
@@ -69,15 +75,13 @@ Currently, I am building strong foundations in **algorithms, data structures, an
 ---
 
 ## 🎓 Education
-
 **Euromed University of Fes (UEMF)**
-🎓 Digital Engineering & Artificial Intelligence (EIDIA)
-📅 2nd Year Student
+🎓 EIDIA - Digital Engineering & Artificial Intelligence
+📅 Engineering Cycle - Big Data Analytics
 
 ---
 
 ## 🎯 Current Goals
-
 * 📊 Learn **Big Data technologies (Hadoop, Spark)**
 * 🗄 Master **databases (SQL & NoSQL)**
 * 🐧 Improve **Linux skills**
